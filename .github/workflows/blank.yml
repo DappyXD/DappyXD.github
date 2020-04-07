@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style.css">
+    <title>Emil have gei</title>
+    <style>
+    p {
+      font-size: 50px;
+      margin: 0px;
+      text-align: center;
+    }
+      h2 {
+        color: red;
+        font-size: 70px;
+        margin: 0px;
+        background-color: blue;
+        text-align: center;
+      }
+      .pornhub {
+        color: blue;
+        margin: 0px;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <h2>THIS IS A FACT</h2>
+      <p>Emil have the big gei</p>
+      <a href="https://www.pornhubpremium.com/" class="pornhub">this will take you to pornhub</a>
+      <p class="index-p">emil is hella gei</p>
+
+      <h2 class="yez">REMEMBER THIS IS A FACT</h2>
+
+    <a href="https://www.pornhubpremium.com/view_video.php?viewkey=ph55b2ec08ad5b1">
+      <img src="img/emil.png" alt="emil hot">
+    </a>
+    </div>
+  </body>
+</html>
